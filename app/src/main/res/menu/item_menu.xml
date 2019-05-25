@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/item_setting"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="تنظیمات" />
+
+        <item
+            android:id="@+id/item_search"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="جستجو" />
+
+        <item
+            android:id="@+id/item_fav"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="علاقه مندی ها" />
+
+        <item
+            android:id="@+id/item_about"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="درباره ما" />
+
+        <item
+            android:id="@+id/item_contact"
+            android:icon="@drawable/ic_contact_phone_black_24dp"
+            android:title="تماس با ما" />
+
+        <item
+            android:id="@+id/item_exit"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="خروج" />
+
+    </group>
+</menu>
