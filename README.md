@@ -1,5 +1,4 @@
 # RTL-Navigationdrawer
-<br>
 سورس Navigation Drawer فارسی (راست چین) در اندروید
 <br>
 <br>
